@@ -5,11 +5,10 @@
 [![Email](https://img.shields.io/badge/Email-ja.nunezg%40uniandes.edu.co-red?logo=gmail)](mailto:ja.nunezg@uniandes.edu.co)
 
 
-🎓 Dual Degree Student at Universidad de los Andes
-
-Electronical Engineering 
-Mechanical Engineering 
--Enphasis in Robotics and Software 💻
+🎓 Dual Degree Student at Universidad de los Andes<br>
+Electronic Engineering<br>
+Mechanical Engineering<br>
+*Emphasis in Robotics and Software* 💻
 
 
 ## 💡 About Me
@@ -64,7 +63,7 @@ I thrive in Agile/Scrum environments and love collaborating across disciplines.
 ---
 
 ## 📊 GitHub Stats
-![Jaime's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JaimeAGonzalez&show_icons=true&theme=radical)
+![Jaime's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AndresNun&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JaimeAGonzalez&layout=compact&theme=radical)
 

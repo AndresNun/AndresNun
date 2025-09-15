@@ -1,8 +1,16 @@
 # 👋 Hi, I'm Jaime Andrés Núñez González
 
-[![GitHub](https://img.shields.io/badge/GitHub-JaimeAGonzalez-181717?logo=github)](https://github.com/JaimeAGonzalez)
+[![GitHub](https://img.shields.io/badge/GitHub-AndresNun-181717?logo=github)](https://github.com/AndresNun)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-JaimeANunez-0A66C2?logo=linkedin)](https://www.linkedin.com/in/JaimeANunez)
 [![Email](https://img.shields.io/badge/Email-ja.nunezg%40uniandes.edu.co-red?logo=gmail)](mailto:ja.nunezg@uniandes.edu.co)
+
+
+🎓 Dual Degree Student at Universidad de los Andes
+
+Electronical Engineering 
+Mechanical Engineering 
+-Enphasis in Robotics and Software 💻
+
 
 ## 💡 About Me
 I’m a **Software Engineer** with 2 years of experience in the **Energy, Agro, and AI** industries.  
@@ -12,35 +20,46 @@ I thrive in Agile/Scrum environments and love collaborating across disciplines.
 ---
 
 ## 🛠️ Skills & Tools
-- **Languages:** Java, SQL, PHP, C#, Python  
-- **Backend:** Laravel, NoSQL, MySQL  
-- **Frontend:** Vue.js  
-- **Others:** Azure Data Factory, Databricks, Apache Spark, Kafka, Git/GitHub, CI/CD pipelines  
 
----
+### 🌐 Programming Languages
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
+</p>
 
-## 🚀 Professional Experience
-- **Dimuto (2024 – Present)**  
-  - Designed and maintained microservices using Laravel, Vue.js, and patterns such as SAGA, CQRS, and Event-Driven Architecture.  
-  - Built AI-powered features for defect detection and product scoring.  
-  - Migrated legacy systems to NoSQL and C# for significant performance improvements.
+### 🛠️ Frameworks & Libraries
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" alt="Laravel" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40"/>
+</p>
 
-- **Publicis Sapient (2024)**  
-  - Developed WebUI and API automation scripts in Java and Python.  
-  - Performed data testing with Azure Data Factory, Databricks, and Apache Spark.
+### ☁️ Cloud
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40" height="40"/>
+</p>
 
----
+### 🤖 Machine Learning
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Scikit-Learn (via Python)" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Pandas (via Python)" width="40" height="40"/>
+</p>
 
-## 🎓 Education
-**BSc in Electronic Engineering**  
-University of Los Andes, Bogotá D.C. (2017–2023)
-
----
-
-## 🏆 Achievements
-- Ranked 22/99 at *University Rover Challenge* – Utah, USA (2022)  
-- Winner, Best Mechanical Engineering Undergraduate Thesis – Bogotá (2021)  
-- 3rd Place, *European Rover Challenge* – Poland (2020)
+### 🔧 Tools
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+</p>
 
 ---
 

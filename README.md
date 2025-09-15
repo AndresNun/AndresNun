@@ -61,6 +61,12 @@ I thrive in Agile/Scrum environments and love collaborating across disciplines.
 </p>
 
 ---
+## 🚀 Professional Experience
+
+- **Dimuto (2024 – Present)**  
+  - 🔗 Most recent work: [Dimuto PQAI](https://dimuto.io/dimutopqai/)  
+
+---
 
 ## 📊 GitHub Stats
 ![Jaime's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AndresNun&show_icons=true&theme=radical)
